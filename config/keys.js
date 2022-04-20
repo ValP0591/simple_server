@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: 'mongodb://vladilen:123456@ds111410.mlab.com:11410/fullstack',
+  mongoURI: 'mongodb+srv://val:Safina451350@cluster0-q7mmw.mongodb.net/test?retryWrites=true&w=majority',
   jwt: 'dev-jwt'
 }
